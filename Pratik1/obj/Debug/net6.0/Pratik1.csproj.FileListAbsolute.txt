@@ -1,0 +1,15 @@
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Pratik1\bin\Debug\net6.0\Pratik1.exe
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Pratik1\bin\Debug\net6.0\Pratik1.deps.json
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Pratik1\bin\Debug\net6.0\Pratik1.runtimeconfig.json
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Pratik1\bin\Debug\net6.0\Pratik1.dll
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Pratik1\bin\Debug\net6.0\Pratik1.pdb
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Pratik1\obj\Debug\net6.0\Pratik1.csproj.AssemblyReference.cache
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Pratik1\obj\Debug\net6.0\Pratik1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Pratik1\obj\Debug\net6.0\Pratik1.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Pratik1\obj\Debug\net6.0\Pratik1.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Pratik1\obj\Debug\net6.0\Pratik1.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Pratik1\obj\Debug\net6.0\Pratik1.dll
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Pratik1\obj\Debug\net6.0\refint\Pratik1.dll
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Pratik1\obj\Debug\net6.0\Pratik1.pdb
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Pratik1\obj\Debug\net6.0\Pratik1.genruntimeconfig.cache
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Pratik1\obj\Debug\net6.0\ref\Pratik1.dll
