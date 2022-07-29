@@ -1,0 +1,15 @@
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\HataYakalama\bin\Debug\net6.0\HataYakalama.exe
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\HataYakalama\bin\Debug\net6.0\HataYakalama.deps.json
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\HataYakalama\bin\Debug\net6.0\HataYakalama.runtimeconfig.json
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\HataYakalama\bin\Debug\net6.0\HataYakalama.dll
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\HataYakalama\bin\Debug\net6.0\HataYakalama.pdb
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\HataYakalama\obj\Debug\net6.0\HataYakalama.csproj.AssemblyReference.cache
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\HataYakalama\obj\Debug\net6.0\HataYakalama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\HataYakalama\obj\Debug\net6.0\HataYakalama.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\HataYakalama\obj\Debug\net6.0\HataYakalama.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\HataYakalama\obj\Debug\net6.0\HataYakalama.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\HataYakalama\obj\Debug\net6.0\HataYakalama.dll
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\HataYakalama\obj\Debug\net6.0\refint\HataYakalama.dll
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\HataYakalama\obj\Debug\net6.0\HataYakalama.pdb
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\HataYakalama\obj\Debug\net6.0\HataYakalama.genruntimeconfig.cache
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\HataYakalama\obj\Debug\net6.0\ref\HataYakalama.dll
