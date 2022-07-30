@@ -1,0 +1,15 @@
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\AsalMi\bin\Debug\net6.0\AsalMi.exe
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\AsalMi\bin\Debug\net6.0\AsalMi.deps.json
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\AsalMi\bin\Debug\net6.0\AsalMi.runtimeconfig.json
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\AsalMi\bin\Debug\net6.0\AsalMi.dll
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\AsalMi\bin\Debug\net6.0\AsalMi.pdb
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\AsalMi\obj\Debug\net6.0\AsalMi.csproj.AssemblyReference.cache
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\AsalMi\obj\Debug\net6.0\AsalMi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\AsalMi\obj\Debug\net6.0\AsalMi.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\AsalMi\obj\Debug\net6.0\AsalMi.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\AsalMi\obj\Debug\net6.0\AsalMi.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\AsalMi\obj\Debug\net6.0\AsalMi.dll
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\AsalMi\obj\Debug\net6.0\refint\AsalMi.dll
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\AsalMi\obj\Debug\net6.0\AsalMi.pdb
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\AsalMi\obj\Debug\net6.0\AsalMi.genruntimeconfig.cache
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\AsalMi\obj\Debug\net6.0\ref\AsalMi.dll
