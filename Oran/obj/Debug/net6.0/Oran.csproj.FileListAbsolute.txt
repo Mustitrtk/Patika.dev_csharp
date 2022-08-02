@@ -1,0 +1,15 @@
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Oran\bin\Debug\net6.0\Oran.exe
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Oran\bin\Debug\net6.0\Oran.deps.json
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Oran\bin\Debug\net6.0\Oran.runtimeconfig.json
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Oran\bin\Debug\net6.0\Oran.dll
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Oran\bin\Debug\net6.0\Oran.pdb
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Oran\obj\Debug\net6.0\Oran.csproj.AssemblyReference.cache
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Oran\obj\Debug\net6.0\Oran.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Oran\obj\Debug\net6.0\Oran.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Oran\obj\Debug\net6.0\Oran.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Oran\obj\Debug\net6.0\Oran.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Oran\obj\Debug\net6.0\Oran.dll
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Oran\obj\Debug\net6.0\refint\Oran.dll
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Oran\obj\Debug\net6.0\Oran.pdb
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Oran\obj\Debug\net6.0\Oran.genruntimeconfig.cache
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Oran\obj\Debug\net6.0\ref\Oran.dll
