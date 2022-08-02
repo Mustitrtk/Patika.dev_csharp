@@ -1,0 +1,15 @@
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\SayiOrt\obj\Debug\net6.0\SayiOrt.csproj.AssemblyReference.cache
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\SayiOrt\obj\Debug\net6.0\SayiOrt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\SayiOrt\obj\Debug\net6.0\SayiOrt.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\SayiOrt\obj\Debug\net6.0\SayiOrt.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\SayiOrt\obj\Debug\net6.0\SayiOrt.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\SayiOrt\bin\Debug\net6.0\SayiOrt.exe
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\SayiOrt\bin\Debug\net6.0\SayiOrt.deps.json
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\SayiOrt\bin\Debug\net6.0\SayiOrt.runtimeconfig.json
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\SayiOrt\bin\Debug\net6.0\SayiOrt.dll
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\SayiOrt\bin\Debug\net6.0\SayiOrt.pdb
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\SayiOrt\obj\Debug\net6.0\SayiOrt.dll
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\SayiOrt\obj\Debug\net6.0\refint\SayiOrt.dll
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\SayiOrt\obj\Debug\net6.0\SayiOrt.pdb
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\SayiOrt\obj\Debug\net6.0\SayiOrt.genruntimeconfig.cache
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\SayiOrt\obj\Debug\net6.0\ref\SayiOrt.dll
