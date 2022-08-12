@@ -1,0 +1,15 @@
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\HackerRankSol2\bin\Debug\net6.0\HackerRankSol2.exe
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\HackerRankSol2\bin\Debug\net6.0\HackerRankSol2.deps.json
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\HackerRankSol2\bin\Debug\net6.0\HackerRankSol2.runtimeconfig.json
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\HackerRankSol2\bin\Debug\net6.0\HackerRankSol2.dll
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\HackerRankSol2\bin\Debug\net6.0\HackerRankSol2.pdb
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\HackerRankSol2\obj\Debug\net6.0\HackerRankSol2.csproj.AssemblyReference.cache
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\HackerRankSol2\obj\Debug\net6.0\HackerRankSol2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\HackerRankSol2\obj\Debug\net6.0\HackerRankSol2.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\HackerRankSol2\obj\Debug\net6.0\HackerRankSol2.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\HackerRankSol2\obj\Debug\net6.0\HackerRankSol2.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\HackerRankSol2\obj\Debug\net6.0\HackerRankSol2.dll
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\HackerRankSol2\obj\Debug\net6.0\refint\HackerRankSol2.dll
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\HackerRankSol2\obj\Debug\net6.0\HackerRankSol2.pdb
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\HackerRankSol2\obj\Debug\net6.0\HackerRankSol2.genruntimeconfig.cache
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\HackerRankSol2\obj\Debug\net6.0\ref\HackerRankSol2.dll
