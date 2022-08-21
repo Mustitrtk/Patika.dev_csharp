@@ -2,7 +2,10 @@
 {
     private static void Main(string[] args)
     {
-        Obs ogr = new Obs("213242017");
+        Obs ogr = new Obs();
+        ogr.OgrenciAd="";
+        ogr.OgrenciSoyad="";
+        ogr.OgrenciNo="214742017";
         ogr.bilgiGoster();
     }
 }
@@ -12,18 +15,36 @@ class Obs{
     private string ogrenciSoyad;
     private string ogrenciNo;
 
+    public string OgrenciAd{
+        get { return ogrenciAd; }
+        set { 
+            if(string.IsNullOrEmpty(value)==true) ogrenciAd = "bos";
+            
+            else ogrenciAd = value; 
+        }
+    }
+
+    public string OgrenciSoyad {
+        get { return ogrenciSoyad; } 
+        set {
+            if(string.IsNullOrEmpty(value)==true) ogrenciSoyad="bos";
+
+            else ogrenciSoyad=value;
+        }
+    }
+
+    public string OgrenciNo { get => ogrenciNo; set => ogrenciNo = value; }
+
     public Obs(string ad, string soyad, string no){
         ogrenciAd = ad;
-        ogrenciSoyad = soyad;
-        ogrenciNo = no;
+        OgrenciSoyad = soyad;
+        OgrenciNo = no;
     }
 
-    public Obs(string no){
-        ogrenciNo = no;
-    }
+    public Obs(){}
 
     public void bilgiGoster(){
-        Console.WriteLine($"Ogrenci ad-soyad : {ogrenciAd}{ogrenciSoyad}");
-        Console.WriteLine($"Ogrenci no : {ogrenciNo}");
+        Console.WriteLine($"Ogrenci ad-soyad : {ogrenciAd} {OgrenciSoyad}");
+        Console.WriteLine($"Ogrenci no : {OgrenciNo}");
     }
 }
