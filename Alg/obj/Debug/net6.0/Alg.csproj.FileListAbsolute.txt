@@ -1,0 +1,15 @@
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Alg\bin\Debug\net6.0\Alg.exe
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Alg\bin\Debug\net6.0\Alg.deps.json
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Alg\bin\Debug\net6.0\Alg.runtimeconfig.json
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Alg\bin\Debug\net6.0\Alg.dll
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Alg\bin\Debug\net6.0\Alg.pdb
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Alg\obj\Debug\net6.0\Alg.csproj.AssemblyReference.cache
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Alg\obj\Debug\net6.0\Alg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Alg\obj\Debug\net6.0\Alg.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Alg\obj\Debug\net6.0\Alg.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Alg\obj\Debug\net6.0\Alg.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Alg\obj\Debug\net6.0\Alg.dll
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Alg\obj\Debug\net6.0\refint\Alg.dll
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Alg\obj\Debug\net6.0\Alg.pdb
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Alg\obj\Debug\net6.0\Alg.genruntimeconfig.cache
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\Alg\obj\Debug\net6.0\ref\Alg.dll
