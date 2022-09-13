@@ -1,0 +1,15 @@
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\TersYazma\obj\Debug\net6.0\TersYazma.csproj.AssemblyReference.cache
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\TersYazma\obj\Debug\net6.0\TersYazma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\TersYazma\obj\Debug\net6.0\TersYazma.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\TersYazma\obj\Debug\net6.0\TersYazma.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\TersYazma\obj\Debug\net6.0\TersYazma.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\TersYazma\bin\Debug\net6.0\TersYazma.exe
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\TersYazma\bin\Debug\net6.0\TersYazma.deps.json
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\TersYazma\bin\Debug\net6.0\TersYazma.runtimeconfig.json
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\TersYazma\bin\Debug\net6.0\TersYazma.dll
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\TersYazma\bin\Debug\net6.0\TersYazma.pdb
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\TersYazma\obj\Debug\net6.0\TersYazma.dll
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\TersYazma\obj\Debug\net6.0\refint\TersYazma.dll
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\TersYazma\obj\Debug\net6.0\TersYazma.pdb
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\TersYazma\obj\Debug\net6.0\TersYazma.genruntimeconfig.cache
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\TersYazma\obj\Debug\net6.0\ref\TersYazma.dll
