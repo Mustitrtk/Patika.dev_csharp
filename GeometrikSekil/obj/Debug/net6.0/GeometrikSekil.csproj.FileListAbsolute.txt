@@ -1,0 +1,15 @@
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\GeometrikSekil\obj\Debug\net6.0\GeometrikSekil.csproj.AssemblyReference.cache
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\GeometrikSekil\obj\Debug\net6.0\GeometrikSekil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\GeometrikSekil\obj\Debug\net6.0\GeometrikSekil.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\GeometrikSekil\obj\Debug\net6.0\GeometrikSekil.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\GeometrikSekil\obj\Debug\net6.0\GeometrikSekil.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\GeometrikSekil\bin\Debug\net6.0\GeometrikSekil.exe
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\GeometrikSekil\bin\Debug\net6.0\GeometrikSekil.deps.json
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\GeometrikSekil\bin\Debug\net6.0\GeometrikSekil.runtimeconfig.json
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\GeometrikSekil\bin\Debug\net6.0\GeometrikSekil.dll
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\GeometrikSekil\bin\Debug\net6.0\GeometrikSekil.pdb
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\GeometrikSekil\obj\Debug\net6.0\GeometrikSekil.dll
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\GeometrikSekil\obj\Debug\net6.0\refint\GeometrikSekil.dll
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\GeometrikSekil\obj\Debug\net6.0\GeometrikSekil.pdb
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\GeometrikSekil\obj\Debug\net6.0\GeometrikSekil.genruntimeconfig.cache
+C:\Users\musta\OneDrive\Masaüstü\masaüstü\ödevler\Patika.dev_c#\GeometrikSekil\obj\Debug\net6.0\ref\GeometrikSekil.dll
